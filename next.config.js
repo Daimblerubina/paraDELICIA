@@ -1,9 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'standalone',
-  images: {
-    formats: ['image/webp'],
-  },
-}
+  output: 'export',  // Esto genera archivos estáticos en /out
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
